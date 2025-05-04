@@ -1,0 +1,772 @@
+[
+    {
+        "id": 1,
+        "number": 1,
+        "name": "Tripod Kamera Profesional",
+        "category": "Aksesoris",
+        "price": 89000,
+        "originalPrice": 120000,
+        "image": "https://i.imgur.com/2BIwiSE.jpeg",
+        "link": "#",
+        "rating": 4.5,
+        "reviews": 1.28,
+        "ribuan": "8",
+        "stock": 15,
+        "description": "Tripod kamera stabil dengan tinggi adjustable, cocok untuk fotografi profesional dan vlogging.",
+        "features": [
+            "Tinggi maksimal 160cm",
+            "Bahan aluminium ringan",
+            "Kepala ball 360°",
+            "Dukungan berat hingga 3kg"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 2,
+        "number": 2,
+        "name": "A-KEMOLA Sandal Wanita Sepatu Wedges",
+        "category": "Clothing",
+        "price": 39900,
+        "originalPrice": 98000,
+        "image": "https://i.imgur.com/f9rmOIT.jpeg",
+        "link": "https://s.shopee.co.id/6KrOszr9jH",
+        "images": [
+            "https://i.imgur.com/MLDqtPo.jpeg",
+            "https://i.imgur.com/8y7UbRL.jpeg",
+            "https://i.imgur.com/KB7K9lZ.jpeg",
+            "https://i.imgur.com/HzleYM5.jpeg",
+            "https://i.imgur.com/kdeKTRw.jpeg"
+        ],
+        "rating": 4.8,
+        "reviews": 19.6,
+        "ribuan": "00",
+        "stock": 9999,
+        "description": "Didesain dengan out-sole anti slip yang membuat langkah tetap stabil dan tidak mudah tergelincir. Menggunakan bahan EVA yang ringan, nyaman, dan fleksibel-ideal untuk penggunaan sehari-hari.",
+        "features": [
+            "Anti Slip Outsole",
+            "Bahan EVA Premium",
+            "Sandal",
+            "Sepatu",
+            "Fashion cewe",
+            "Fashion Perempuan"
+        ],
+        "specifications": "EVA (Ethylene Vinyl Acetate) adalah bahan ringan, lentur, dan empuk."
+    },
+    {
+        "id": 3,
+        "number": 3,
+        "name": "Payung HHYUKUMI Betuk Pedang Katana Samurai Japan",
+        "category": "Unik",
+        "price": 103749,
+        "originalPrice": 150000,
+        "image": "https://i.imgur.com/sX9WT3X.jpeg",
+        "link": "https://s.shopee.co.id/50MDeCgSK9",
+        "images": [
+            "https://i.imgur.com/tnOMss1.jpeg",
+            "https://i.imgur.com/tQqwVo4.jpeg",
+            "https://i.imgur.com/uYUhb0n.jpeg",
+            "https://i.imgur.com/Grci0gL.jpeg"
+        ],
+        "rating": 4.7,
+        "reviews": 8,
+        "ribuan": "0",
+        "stock": 999,
+        "description": "Payung dari HHYUKUMI hadir dengan bentuk menyerupai katana, yang merupakan pedang milik seorang samurai.",
+        "features": [
+            "payung hitam",
+            "barang unik",
+            "katana",
+            "anti air"
+        ],
+        "specifications": "Material=ABS, Besi dan Kain Polister. Diameter=105 CM"
+    },
+    {
+        "id": 4,
+        "number": 4,
+        "name": "Erigo Short Othieno Army",
+        "category": "Clothing",
+        "price": 282200,
+        "originalPrice": 350000,
+        "image": "https://i.imgur.com/o4cwoGh.jpeg",
+        "link": "https://s.shopee.co.id/9zktbWgfZK",
+        "images": [
+            "https://i.imgur.com/TuwEni7.jpeg",
+            "https://i.imgur.com/kExGXj0.jpeg",
+            "https://i.imgur.com/G1m8pme.jpeg",
+            "https://i.imgur.com/QoE8Bo9.jpeg"
+        ],
+        "rating": 4.9,
+        "reviews": 18.6,
+        "ribuan": "00",
+        "stock": 999,
+        "description": "Menggunakan bahan rayon & button yang senada dengan warna kemeja. Membuat pennampilan semakin stylish. Perpect untuk gaya casual.",
+        "features": [
+            "fashion",
+            "cowok",
+            "kemeja cowok",
+            "kemeja pendek",
+            "lengan pendek"
+        ],
+        "specifications": "Default spesifikasi ukuran pada gamabar,"
+    },
+    {
+        "id": 5,
+        "number": 5,
+        "name": "Jam Tangan Wanita Klasik Mode Display Kuarsa",
+        "category": "Aksesoris",
+        "price": 93999,
+        "originalPrice": 240000,
+        "image": "https://i.imgur.com/2BIwiSE.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/J4wRASk.jpeg",
+            "https://i.imgur.com/olPggBd.jpeg"
+        ],
+        "rating": 1.0,
+        "reviews": 98.0,
+        "ribuan": "0",
+        "stock": 999,
+        "description": "",
+        "features": [
+            ""
+        ],
+        "specifications": ""
+    },
+    {
+        "id": 6,
+        "number": 6,
+        "name": "",
+        "category": "",
+        "price": 100,
+        "originalPrice": 1000,
+        "image": "",
+        "link": "",
+        "images": [],
+        "rating": 4.0,
+        "reviews": 78.0,
+        "ribuan": "0",
+        "stock": 999,
+        "description": "",
+        "features": [
+            ""
+        ],
+        "specifications": ""
+    },
+    {
+        "id": 7,
+        "number": 7,
+        "name": "Eau De Parfume 75ml Tahan Lama EDP BTC ETH BNB Solana Pria Wanita",
+        "category": "Aksesoris",
+        "price": 100689,
+        "originalPrice": 238000,
+        "image": "https://i.imgur.com/EHbqrAL.png",
+        "link": "https://s.shopee.co.id/5fbuRkNres",
+        "images": [
+            "https://i.imgur.com/Z9LIYTB.jpeg",
+            "https://i.imgur.com/g5jozzb.jpeg",
+            "https://i.imgur.com/Z0grxmZ.jpeg",
+            "https://i.imgur.com/i0flWn8.jpeg"
+        ],
+        "rating": 4.8,
+        "reviews": 11.1,
+        "ribuan": "00",
+        "stock": 57524,
+        "description": "Meningkatkan daya tarik, menjadi pusat perhatian dalam komunitas, dengan menggunakan parfume ini dengan kemasan mewah",
+        "features": [
+            "parfume mewah",
+            "farpume",
+            "parfume crypto",
+            "parfume pria dan wanita"
+        ],
+        "specifications": "Harga 30ml untuk Ukuran 75ml dengan Free Totebag untuk pembelian paket"
+    },
+    {
+        "id": 8,
+        "number": 8,
+        "name": "Ultrapods Air31 TWS Bluetooth 5.3 Earphone Android with Microphone HIFI Stereo Bass Earbuds",
+        "category": "Elektronik",
+        "price": 27600,
+        "originalPrice": 69999,
+        "image": "https://i.imgur.com/9xBRXRM.jpeg",
+        "link": "https://s.shopee.co.id/8pYwDdeRQz",
+        "images": [
+            "https://i.imgur.com/9SVlYgi.png",
+            "https://i.imgur.com/sZgOFxz.png",
+            "https://i.imgur.com/1qXhD6h.png"
+        ],
+        "rating": 4.6,
+        "reviews": 6.1,
+        "ribuan": "00",
+        "stock": 6507,
+        "description": "Headset bluetooth ini kompatible dengan semua ponsel cerdas, tablet, laptop berkemampuan bluetooth",
+        "features": [
+            "tws",
+            "hendset",
+            "headset",
+            "bluetooth"
+        ],
+        "specifications": "skema warna morandi dan desain cangkang transparan memiliki tampilan unik melebihi kebanyakan tws"
+    },
+    {
+        "id": 9,
+        "number": 9,
+        "name": "HW Earphone Bluetooth 5.3 Headphone Tidur Nirkabel",
+        "category": "Elektronik",
+        "price": 99000,
+        "originalPrice": 240000,
+        "image": "https://i.imgur.com/ywuEAHm.jpeg",
+        "link": "https://s.shopee.co.id/9Uod0t22Fs",
+        "images": [
+            "https://i.imgur.com/s2SvoOm.png",
+            "https://i.imgur.com/4txOskL.png",
+            "https://i.imgur.com/2BiCCdO.png"
+        ],
+        "rating": 4.5,
+        "reviews": 2.72,
+        "ribuan": "0",
+        "stock": 109,
+        "description": "Bluetooth headphone ganda ini menghasilkan suara hi-fi dengan bass yang kuat, mid yang jernih, dan treble yang cerah. Desain akustik ruang besar menyeimbangkan tekanan udara internal dan eksternal dengan baik untuk menghindari kehilangan suara, memastikan Anda dapat didengar dengan jelas bahkan di lingkungan yang bising. Nikmati waktu Anda tidak peduli saat memutar musik atau menerima panggilan telepon.",
+        "features": [
+            "tws",
+            "hendset",
+            "headset",
+            "bluetooth"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 10,
+        "number": 10,
+        "name": "PAD HANER LEXICON Jam Tangan Heksagonal Anlog Pria Original Tali Kulit sueude water resist",
+        "category": "Aksesoris",
+        "price": 559900,
+        "originalPrice": 789900,
+        "image": "https://i.imgur.com/MkwtmSf.png",
+        "link": "https://s.shopee.co.id/2LLSTlWVRm",
+        "images": [
+            "https://i.imgur.com/dSSalEW.png",
+            "https://i.imgur.com/2rymBf9.png",
+            "https://i.imgur.com/Ve9out6.png",
+            "https://i.imgur.com/JVG2l5S.png"
+        ],
+        "rating": 4.7,
+        "reviews": 80,
+        "ribuan": "7",
+        "stock": 20,
+        "description": "Kenapa pilih Pad Hener adalah brand yang berfokus untuk menyajikan kualitas terbaik, yang punya fungsi dan kenyamanan maksimal dengan harga yang terjangkau. Upgrade potensi fashion-mu melalui produk pilihan dari Pad Hener.",
+        "features": [
+            "Fitur 10A",
+            "Fitur 10B",
+            "Fitur 10C"
+        ],
+        "specifications": "Model Pad Hener: Lexicon. Strap Material: Leather. Strap Width: 22 mm Diameter: 42 mm Glass: Crystal Sapphire Case: Steel"
+    },
+    {
+        "id": 11,
+        "number": 11,
+        "name": "Produk Unik 11",
+        "category": "Kategori",
+        "price": 21000,
+        "originalPrice": 26000,
+        "image": "https://i.imgur.com/Or7ehgP.png",
+        "link": "https://s.shopee.co.id/1qPBsu1znw",
+        "images": [
+            "https://i.imgur.com/OrC1Qag.png",
+            "https://i.imgur.com/2OKftLa.png",
+            "https://i.imgur.com/pKx5MdA.png"
+        ],
+        "rating": 4.6,
+        "reviews": 8.8,
+        "ribuan": "0",
+        "stock": 111,
+        "description": "Deskripsi produk unik ke-11.",
+        "features": [
+            "Fitur 11A",
+            "Fitur 11B",
+            "Fitur 11C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 12,
+        "number": 12,
+        "name": "Produk Unik 12",
+        "category": "Kategori",
+        "price": 22000,
+        "originalPrice": 27000,
+        "image": "https://i.imgur.com/62oe07M.jpeg",
+        "link": "https://s.shopee.co.id/2fyIsSJrsq",
+        "images": [
+            "https://i.imgur.com/wL30Moo.png",
+            "https://i.imgur.com/4WHH5XN.png",
+            "https://i.imgur.com/YLiZyZX.png"
+        ],
+        "rating": 4.7,
+        "reviews": 9.6,
+        "ribuan": "0",
+        "stock": 112,
+        "description": "Deskripsi produk unik ke-12.",
+        "features": [
+            "Fitur 12A",
+            "Fitur 12B",
+            "Fitur 12C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 13,
+        "number": 13,
+        "name": "Produk Unik 13",
+        "category": "Kategori",
+        "price": 23000,
+        "originalPrice": 28000,
+        "image": "https://i.imgur.com/xBCnvm9.jpeg",
+        "link": "https://s.shopee.co.id/5Kz43NnfM5",
+        "images": [
+            "https://i.imgur.com/ihtq4ji.png",
+            "https://i.imgur.com/Bxr8LQV.png",
+            "https://i.imgur.com/Eq2ByZH.png"
+        ],
+        "rating": 4.8,
+        "reviews": 10.4,
+        "ribuan": "0",
+        "stock": 113,
+        "description": "Deskripsi produk unik ke-13.",
+        "features": [
+            "Fitur 13A",
+            "Fitur 13B",
+            "Fitur 13C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 14,
+        "number": 14,
+        "name": "Produk Unik 14",
+        "category": "Kategori",
+        "price": 24000,
+        "originalPrice": 29000,
+        "image": "https://i.imgur.com/y1N8Tpf.jpeg",
+        "link": "https://s.shopee.co.id/qWeh8Qb8k",
+        "images": [
+            "https://i.imgur.com/DjS1kFO.png",
+            "https://i.imgur.com/EUftSGP.png"
+        ],
+        "rating": 4.9,
+        "reviews": 11.2,
+        "ribuan": "0",
+        "stock": 114,
+        "description": "Deskripsi produk unik ke-14.",
+        "features": [
+            "Fitur 14A",
+            "Fitur 14B",
+            "Fitur 14C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 15,
+        "number": 15,
+        "name": "Produk Unik 15",
+        "category": "Kategori",
+        "price": 25000,
+        "originalPrice": 30000,
+        "image": "https://i.imgur.com/ZZD1SQN.jpeg",
+        "link": "https://s.shopee.co.id/60EkqeNA4S",
+        "images": [
+            "https://i.imgur.com/jnEKNUE.png",
+            "https://i.imgur.com/hY955lE.png"
+        ],
+        "rating": 4.5,
+        "reviews": 12.0,
+        "ribuan": "0",
+        "stock": 115,
+        "description": "Deskripsi produk unik ke-15.",
+        "features": [
+            "Fitur 15A",
+            "Fitur 15B",
+            "Fitur 15C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 16,
+        "number": 16,
+        "name": "Produk Unik 16",
+        "category": "Kategori",
+        "price": 26000,
+        "originalPrice": 31000,
+        "image": "https://i.imgur.com/6YQ057q.png",
+        "link": "https://s.shopee.co.id/10q4tUB0Dz",
+        "images": [
+            "https://i.imgur.com/k2v2WND.png",
+            "https://i.imgur.com/RK6pNhH.png",
+            "https://i.imgur.com/ZcxSCZ8.png"
+        ],
+        "rating": 4.6,
+        "reviews": 12.8,
+        "ribuan": "0",
+        "stock": 116,
+        "description": "Deskripsi produk unik ke-16.",
+        "features": [
+            "Fitur 16A",
+            "Fitur 16B",
+            "Fitur 16C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 17,
+        "number": 17,
+        "name": "Produk Unik 17",
+        "category": "Kategori",
+        "price": 27000,
+        "originalPrice": 32000,
+        "image": "https://i.imgur.com/WKgoIxa.png",
+        "link": "https://s.shopee.co.id/5Kz43Vx0zF",
+        "images": [
+            "https://i.imgur.com/gDUFgF1.png",
+            "https://i.imgur.com/pcnsWqb.png",
+            "https://i.imgur.com/1l7V2aM.png",
+            "https://i.imgur.com/jHn3lFw.png"
+        ],
+        "rating": 4.7,
+        "reviews": 13.6,
+        "ribuan": "0",
+        "stock": 117,
+        "description": "Deskripsi produk unik ke-17.",
+        "features": [
+            "Fitur 17A",
+            "Fitur 17B",
+            "Fitur 17C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 18,
+        "number": 18,
+        "name": "Produk Unik 18",
+        "category": "Kategori",
+        "price": 28000,
+        "originalPrice": 33000,
+        "image": "https://i.imgur.com/q9U5Ane.png",
+        "link": "https://s.shopee.co.id/8Kcfd3L4jk",
+        "images": [
+            "https://i.imgur.com/0E5uzGD.png",
+            "https://i.imgur.com/m5jY86c.png",
+            "https://i.imgur.com/1TlBC8G.png"
+        ],
+        "rating": 4.8,
+        "reviews": 14.4,
+        "ribuan": "0",
+        "stock": 118,
+        "description": "Deskripsi produk unik ke-18.",
+        "features": [
+            "Fitur 18A",
+            "Fitur 18B",
+            "Fitur 18C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 19,
+        "number": 19,
+        "name": "Produk Unik 19",
+        "category": "Kategori",
+        "price": 29000,
+        "originalPrice": 34000,
+        "image": "https://i.imgur.com/hwBGYDc.jpeg",
+        "link": "https://s.shopee.co.id/4fjNGLlMAe",
+        "images": [
+            "https://i.imgur.com/RLUVBQq.png",
+            "https://i.imgur.com/Z4VLSc1.png",
+            "https://i.imgur.com/ejWlJEP.png",
+            "https://i.imgur.com/rHQRo4w.png"
+        ],
+        "rating": 4.9,
+        "reviews": 15.2,
+        "ribuan": "0",
+        "stock": 119,
+        "description": "Deskripsi produk unik ke-19.",
+        "features": [
+            "Fitur 19A",
+            "Fitur 19B",
+            "Fitur 19C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 20,
+        "number": 20,
+        "name": "Produk Unik 20",
+        "category": "Kategori",
+        "price": 30000,
+        "originalPrice": 35000,
+        "image": "https://i.imgur.com/J4M3J9w.jpeg",
+        "link": "https://s.shopee.co.id/3qAGGq5NdS",
+        "images": [
+            "https://i.imgur.com/QyK0YTq.png",
+            "https://i.imgur.com/OZRGJlD.png",
+            "https://i.imgur.com/Fganspd.png"
+        ],
+        "rating": 4.5,
+        "reviews": 16.0,
+        "ribuan": "0",
+        "stock": 120,
+        "description": "Deskripsi produk unik ke-20.",
+        "features": [
+            "Fitur 20A",
+            "Fitur 20B",
+            "Fitur 20C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 21,
+        "number": 21,
+        "name": "Produk Unik 21",
+        "category": "Kategori",
+        "price": 31000,
+        "originalPrice": 36000,
+        "image": "https://i.imgur.com/iemXxAw.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/o4J6Cby.jpeg",
+            "https://i.imgur.com/ydFytji.jpeg",
+            "https://i.imgur.com/Ikq6SCX.jpeg"
+        ],
+        "rating": 4.6,
+        "reviews": 16.8,
+        "ribuan": "0",
+        "stock": 121,
+        "description": "Deskripsi produk unik ke-21.",
+        "features": [
+            "Fitur 21A",
+            "Fitur 21B",
+            "Fitur 21C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 22,
+        "number": 22,
+        "name": "Produk Unik 22",
+        "category": "Kategori",
+        "price": 32000,
+        "originalPrice": 37000,
+        "image": "https://i.imgur.com/tnObOnx.jpeg",
+        "link": "#",
+        "images": [],
+        "rating": 4.7,
+        "reviews": 17.6,
+        "ribuan": "0",
+        "stock": 122,
+        "description": "Deskripsi produk unik ke-22.",
+        "features": [
+            "Fitur 22A",
+            "Fitur 22B",
+            "Fitur 22C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 23,
+        "number": 23,
+        "name": "Produk Unik 23",
+        "category": "Kategori",
+        "price": 33000,
+        "originalPrice": 38000,
+        "image": "https://i.imgur.com/Example23.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example23a.jpeg",
+            "https://i.imgur.com/Example23b.jpeg"
+        ],
+        "rating": 4.8,
+        "reviews": 18.4,
+        "ribuan": "0",
+        "stock": 123,
+        "description": "Deskripsi produk unik ke-23.",
+        "features": [
+            "Fitur 23A",
+            "Fitur 23B",
+            "Fitur 23C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 24,
+        "number": 24,
+        "name": "Produk Unik 24",
+        "category": "Kategori",
+        "price": 34000,
+        "originalPrice": 39000,
+        "image": "https://i.imgur.com/Example24.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example24a.jpeg",
+            "https://i.imgur.com/Example24b.jpeg"
+        ],
+        "rating": 4.9,
+        "reviews": 19.2,
+        "ribuan": "0",
+        "stock": 124,
+        "description": "Deskripsi produk unik ke-24.",
+        "features": [
+            "Fitur 24A",
+            "Fitur 24B",
+            "Fitur 24C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 25,
+        "number": 25,
+        "name": "Produk Unik 25",
+        "category": "Kategori",
+        "price": 35000,
+        "originalPrice": 40000,
+        "image": "https://i.imgur.com/Example25.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example25a.jpeg",
+            "https://i.imgur.com/Example25b.jpeg"
+        ],
+        "rating": 4.5,
+        "reviews": 20.0,
+        "ribuan": "0",
+        "stock": 125,
+        "description": "Deskripsi produk unik ke-25.",
+        "features": [
+            "Fitur 25A",
+            "Fitur 25B",
+            "Fitur 25C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 26,
+        "number": 26,
+        "name": "Produk Unik 26",
+        "category": "Kategori",
+        "price": 36000,
+        "originalPrice": 41000,
+        "image": "https://i.imgur.com/Example26.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example26a.jpeg",
+            "https://i.imgur.com/Example26b.jpeg"
+        ],
+        "rating": 4.6,
+        "reviews": 20.8,
+        "ribuan": "0",
+        "stock": 126,
+        "description": "Deskripsi produk unik ke-26.",
+        "features": [
+            "Fitur 26A",
+            "Fitur 26B",
+            "Fitur 26C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 27,
+        "number": 27,
+        "name": "Produk Unik 27",
+        "category": "Kategori",
+        "price": 37000,
+        "originalPrice": 42000,
+        "image": "https://i.imgur.com/Example27.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example27a.jpeg",
+            "https://i.imgur.com/Example27b.jpeg"
+        ],
+        "rating": 4.7,
+        "reviews": 21.6,
+        "ribuan": "0",
+        "stock": 127,
+        "description": "Deskripsi produk unik ke-27.",
+        "features": [
+            "Fitur 27A",
+            "Fitur 27B",
+            "Fitur 27C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 28,
+        "number": 28,
+        "name": "Produk Unik 28",
+        "category": "Kategori",
+        "price": 38000,
+        "originalPrice": 43000,
+        "image": "https://i.imgur.com/Example28.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example28a.jpeg",
+            "https://i.imgur.com/Example28b.jpeg"
+        ],
+        "rating": 4.8,
+        "reviews": 22.4,
+        "ribuan": "0",
+        "stock": 128,
+        "description": "Deskripsi produk unik ke-28.",
+        "features": [
+            "Fitur 28A",
+            "Fitur 28B",
+            "Fitur 28C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 29,
+        "number": 29,
+        "name": "Produk Unik 29",
+        "category": "Kategori",
+        "price": 39000,
+        "originalPrice": 44000,
+        "image": "https://i.imgur.com/Example29.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example29a.jpeg",
+            "https://i.imgur.com/Example29b.jpeg"
+        ],
+        "rating": 4.9,
+        "reviews": 23.2,
+        "ribuan": "0",
+        "stock": 129,
+        "description": "Deskripsi produk unik ke-29.",
+        "features": [
+            "Fitur 29A",
+            "Fitur 29B",
+            "Fitur 29C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    },
+    {
+        "id": 30,
+        "number": 30,
+        "name": "Produk Unik 30",
+        "category": "Kategori",
+        "price": 2000000,
+        "originalPrice": 45000,
+        "image": "https://i.imgur.com/Example30.jpeg",
+        "link": "#",
+        "images": [
+            "https://i.imgur.com/Example30a.jpeg",
+            "https://i.imgur.com/Example30b.jpeg"
+        ],
+        "rating": 4.5,
+        "reviews": 24.0,
+        "ribuan": "0",
+        "stock": 130,
+        "description": "Deskripsi produk unik ke-30.",
+        "features": [
+            "Fitur 30A",
+            "Fitur 30B",
+            "Fitur 30C"
+        ],
+        "specifications": "Spesifikasi belum tersedia"
+    }
+]

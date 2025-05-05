@@ -5,7 +5,8 @@ from firebase_admin import credentials, firestore
 from typing import List, Dict, Any
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/api/*": {"origins": "https://updatedatahomesale.netlify.app"}})
+
 
 # ------------------- Firebase Init -------------------
 cred = credentials.Certificate("assets/configkey.json")  # Ganti dengan path file key kamu
